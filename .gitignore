@@ -2,7 +2,7 @@
 .Client\properties\*
 .Server\obj\*
 
-*\[Oo]bj\*
+
 
 ### VisualStudioCode ###
 .vscode/*

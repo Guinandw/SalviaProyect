@@ -1,0 +1,112 @@
+/* League Regular */
+@font-face {
+    font-family: 'League italic Gothic';
+    src: url('/fonts/leaguegothic-italic-webfont.eot');
+    src: url('/fonts/leaguegothic-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/leaguegothic-italic-webfont.woff') format('woff'),
+         url('/fonts/leaguegothic-italic-webfont.ttf') format('truetype'),
+         url('/fonts/leaguegothic-italic-webfont.svg#league_gothic_italicregular') format('svg');
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+/* League Italic */
+@font-face {
+    font-family: 'League regular Gothic';
+    src: url('/fonts/leaguegothic-regular-webfont.eot');
+    src: url('/fonts/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/leaguegothic-regular-webfont.woff') format('woff'),
+         url('/fonts/leaguegothic-regular-webfont.ttf') format('truetype'),
+         url('/fonts/leaguegothic-regular-webfont.svg#league_gothicregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Condensed */
+@font-face {
+    font-family: 'League Regular Gothic Condensed';
+    src: url('/fonts/leaguegothic-condensed-regular-webfont.eot');
+    src: url('/fonts/leaguegothic-condensed-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/leaguegothic-condensed-regular-webfont.woff') format('woff'),
+         url('/fonts/leaguegothic-condensed-regular-webfont.ttf') format('truetype'),
+         url('/fonts/leaguegothic-condensed-regular-webfont.svg#league_gothic_condensed-Rg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+/* Condensed Italic */
+@font-face {
+    font-family: 'League Italic Gothic Condensed';
+    src: url('/fonts/leaguegothic-condensed-italic-webfont.eot');
+    src: url('/fonts/leaguegothic-condensed-italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('/fonts/leaguegothic-condensed-italic-webfont.woff') format('woff'),
+         url('/fonts/leaguegothic-condensed-italic-webfont.ttf') format('truetype'),
+         url('/fonts/leaguegothic-condensed-italic-webfont.svg#league_gothic_condensed_itaRg') format('svg');
+    font-weight: normal;
+    font-style: italic;
+}
+
+/* Bakerie Smooth Bold */
+
+
+
+/* fuentes kollektif */
+@font-face {
+    font-family: 'Kollektif Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kollektif Regular'), url('/fonts/Kollektif.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Kollektif Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kollektif Italic'), url('Kollektif-Italic.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Kollektif Bold';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kollektif Bold'), url('Kollektif-Bold.woff') format('woff');
+    }
+    
+
+    @font-face {
+    font-family: 'Kollektif Bold Italic';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Kollektif Bold Italic'), url('Kollektif-BoldItalic.woff') format('woff');
+    }
+
+    @font-face {
+        font-family: 'Bakerie Smooth Bold';
+        font-style: normal;
+        font-weight: bold;
+        src: local('Bakerie Smooth Bold'), url('/fonts/BakerieSmooth-Bold.ttf') format('woff');
+        }
+
+.leagueRegular{
+    font-family: 'League regular Gothic';
+}
+
+.leaguerRegularItalic{
+    
+    font-family: 'League italic Gothic';
+}
+
+.bakerie{
+    font-family: 'Bakerie Smooth Bold';
+}
+
+.kollektif{
+    font-family: 'Kollektif Regular';
+
+}
+
